@@ -1,6 +1,6 @@
 {
-  "name": "is-even",
-  "version": "1.0.0",
+  "name": "check-number-is-even",
+  "version": "1.1.0",
   "description": "is-even is a library to check the number is even or not, it will true and false",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
