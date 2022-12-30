@@ -1,0 +1,30 @@
+{
+  "name": "is-even",
+  "version": "1.0.0",
+  "description": "is-even is a library to check the number is even or not, it will true and false",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaukLazyProgrammer/is-even.git"
+  },
+  "keywords": [
+    "is even",
+    "even number check",
+    "even check javascript"
+  ],
+  "author": "mauk <arifullahkhan176@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MaukLazyProgrammer/is-even/issues"
+  },
+  "homepage": "https://github.com/MaukLazyProgrammer/is-even#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "files": ["lib/**/* "]
+}
